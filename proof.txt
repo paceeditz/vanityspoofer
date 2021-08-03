@@ -1,0 +1,11 @@
+private const string string_2 = "C:/Premium";
+private const string string_3 = "C:/Program Files/Temp/I59384-58123JD-XNHZ-585J12";
+private const string string_4 = "C:/Premium/User.txt";
+private const string string_5 = "C:/Premium/Pass.txt";
+private const string string_6 = "C:/Windows/0000000";
+private const string string_7 = "C:/Windows/Temp/9Xnz75N";
+private const string string_8 = "C:/Program Files/123957N";
+private const string string_9 = "C:/Premium/Login";
+private const string string_10 = "C:/Premium Spoofer LLC";
+private const string string_11 = "C:/Windows/KernelLogs";
+private const string string_12 = "C:/Program Files (x86)/Blade Group";
